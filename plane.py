@@ -16,11 +16,6 @@
    методу з пункту 4 в консоль
 """
 
-
-def xuy(self=0):
-  pass
-
-
 class Plane:
 
   _numOfPlanesWasRepaired = 0
